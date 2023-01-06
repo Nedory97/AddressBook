@@ -8,6 +8,8 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
+		System.out.println("네도리의 주소록");
+		
 		Scanner sc = new Scanner(System.in);
 		
 		AddressDao dao = new AddressDao();
